@@ -1,34 +1,14 @@
 {
   "api": {
-    "categories": [
-      "Книги",
-      "Журналы",
-      "Посуда",
-      "Разное",
-      "Диски"
+    "title": [
+      "Nice, cozy, warm big bed apartment",
+      "Tile House"
     ],
-    "titles": [
-      "Тёмная башня",
-      "Стрелок",
-      "Извлечение троих",
-      "Куджо",
-      "Глаза дракона",
-      "Зелёная миля",
-      "Кристина",
-      "Жребий Салема",
-      "Бегущий человек",
-      "История Лизи",
-      "Долгая прогулка",
-      "Институт",
-      "Худеющий",
-      "Гвенди и её волшебная шкатулка",
-      "Мобильник",
-      "Черновик",
-      "Ночной Дозор",
-      "Крёстный Отец",
-      "Атлант расправил плечи"
+    "description": [
+      "Design interior in most sympathetic area! Complitely renovated, well-equipped, cosy studio in idyllic, over 100 years old wooden house. Calm street, fast connection to center and airport.",
+      "Peaceful studio in the most wanted area in town. Quiet house Near of everything. Completely renovated. Lovely neighbourhood, lot of trendy shops, restaurants and bars in a walking distance."
     ],
-    "descriptions": [
+    "postDate": [
       "Страшный рассказ о драконе. Колдовство, предательство и необыкновенный мир фэнтези.",
       "История про вампиров из маленького городка. Коварство, нестандартный сюжет и необыкновенные приключения священника.",
       "Идти или остановиться? Вопрос без правильного ответа. Рассказ о долгой и смертельной прогулке.",
@@ -39,7 +19,7 @@
       "Криминальная сага от неповторимого Марио Пьюзо. Перестрелки, погони, предательство и дружба.",
       "Мир населяют не только люди. Иные живут вместе с ними и визуально ничем не отличаются. История про магию и могущественных существ. Борьба сил Добра и Зла."
     ],
-    "offerImages": [
+    "city": [
       "book.jpg",
       "institute-book.jpg",
       "dark-tower.jpg",
@@ -47,7 +27,7 @@
       "draft.jpg",
       "magic.jpg"
     ],
-    "categoryImages": [
+    "previewImage": [
       "category-book.jpg",
       "category-disk.jpg",
       "category-home.jpg",
@@ -55,7 +35,7 @@
       "category-entertainment.jpg",
       "category-films.jpg"
     ],
-    "users": [
+    "images": [
       "Иван Иванов",
       "Олег Сидоров",
       "Пьер Безухов",
@@ -67,24 +47,13 @@
       "Рокки Бальбоа",
       "Джон Смит"
     ],
-    "emails": [
-      "snow@pisem.local",
-      "president@dka.local",
-      "fish@big.local",
-      "test@pisem.local",
-      "freedom@pisem.local",
-      "rolan@pochta.local",
-      "author@mir.local",
-      "test@lost.loca",
-      "kujo-fan@story.local"
+    "isPremium": [
+      "true",
+      "false"
     ],
-    "avatars": [
-      "user.jpg",
-      "photo.jpg",
-      "awesome-avatar.jpg",
-      "roland.jpg",
-      "smite.jpg",
-      "coffee.jpg"
+    "isFavorite": [
+      "true",
+      "false"
     ]
   }
 }
